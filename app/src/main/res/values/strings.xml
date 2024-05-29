@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Угадай Мелодию</string>
+    <string name="str1">Привет!</string>
+    <string name="str2">Введите своё имя</string>
+    <string name="str14">Что это за песня??</string>
+    <string name="str15">Введите ответ</string>
+    <string name="str16">Проверить</string>
+    <string name="str17">Сохранить</string>
+    <string name="str18">Нажми на звезду!</string>
+
+</resources>
